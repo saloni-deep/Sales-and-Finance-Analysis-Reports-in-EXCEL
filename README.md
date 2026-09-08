@@ -7,18 +7,20 @@ The AtliQ Business users have been given files to build reports the data contain
 
 # **The Reports consists of**
 
-# Sales Report:
-Customer Net Sales Performance
-Market performance Vs target
-Division report
-New products in 2021
-Top 5 Countries in 2021
-Top & Bottom 5 products
+# Sales Report
 
-# Finance Report:
-P & L statement by Fiscal year
-P & L statement by Market
-GM % by Quarters
+- Customer Net Sales Performance
+- Market Performance Vs Target
+- Division Report
+- New Products in 2021
+- Top 5 Countries in 2021
+- Top & Bottom 5 Products
+
+# Finance Report
+
+- P & L Statement by Fiscal Year
+- P & L Statement by Market
+- GM % by Quarters
 
 # **Workflow**
 1. ETL (Extract, Transform & Load) & Power Query:
@@ -37,6 +39,6 @@ Created 10+ new measures like net sales for each customer as well as growth% for
 Applied conditional formatting to enhance the data presentation & readability for effective decision-making.
 
 # **Insights**
-The top 3 customers of AtliQ are Amazon, AtliQ e-store & Atliq exclusive.
-In 2021, AtliQ launched 16 new products with the highest sales obtained by AQ Quarty, AQ Trigger, and AQ Gen Y.
-A notable amount of 51.6 million in Gross Margin is observed for the India
+- The top 3 customers of AtliQ are Amazon, AtliQ e-store & Atliq exclusive.
+- In 2021, AtliQ launched 16 new products with the highest sales obtained by AQ Quarty, AQ Trigger, and AQ Gen Y.
+- A notable amount of 51.6 million in Gross Margin is observed for the India
