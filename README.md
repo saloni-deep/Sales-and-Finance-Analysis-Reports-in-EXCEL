@@ -41,4 +41,4 @@ Applied conditional formatting to enhance the data presentation & readability fo
 # **Insights**
 - The top 3 customers of AtliQ are Amazon, AtliQ e-store & Atliq exclusive.
 - In 2021, AtliQ launched 16 new products with the highest sales obtained by AQ Quarty, AQ Trigger, and AQ Gen Y.
-- A notable amount of 51.6 million in Gross Margin is observed for the India
+- A notable amount of 51.6 million in Gross Margin is observed for the India.
