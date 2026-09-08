@@ -6,6 +6,7 @@ AtliQ Hardware is a company that sells hardware like PCs, Mouse, Printers, etc. 
 The AtliQ Business users have been given files to build reports the data contains more than 7 Lakhs records, and have to build sales and financial reports of the company.
 
 # **The Reports consists of**
+
 # Sales Report:
 Customer Net Sales Performance
 Market performance Vs target
