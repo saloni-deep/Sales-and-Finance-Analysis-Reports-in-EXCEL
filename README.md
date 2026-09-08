@@ -1,4 +1,4 @@
-**Sales-and-Finance-Analysis-Reports-in-EXCEL**
+***Sales-and-Finance-Analysis-Reports-in-EXCEL***
 
 # **Objective**
 AtliQ Hardware is a company that sells hardware like PCs, Mouse, Printers, etc. to different customers. They have 2 types of customers, one is Physical stores that are known as Brick & Mortar like Croma and Best Buy and the second is E-commerce like Amazon and Flipkart.
